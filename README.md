@@ -31,5 +31,5 @@ python timetable.py
    e. You can see the courses and slots you're filling in a table right next to the input area.
    f. After every course, click 'Add Course' to add the course to the list.
    
-3. Once you're done with all the courses, click on Generate Timetable. This will generate the timetable and save it as "Timetable.xlsx" in the same directory. Open this up in any xlsx viewer and either save it as pdf/png/jpeg (or whatever) or take a screenshot, and voila, you have a readable timetable :)
+3. Once you're done with all the courses, click on Generate Timetable. This will generate the timetable and save it as "Timetable.xlsx" in the same directory. Open this up in any xlsx viewer and either save it as pdf/png/jpeg (or whatever) or take a screenshot, and voila, you have a readable timetable :wink:
    
