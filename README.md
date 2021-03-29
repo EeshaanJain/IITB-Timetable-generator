@@ -18,7 +18,7 @@ git clone https://github.com/EeshaanJain/IITB-Timetable-generator.git
 ```
 2. Run pip on the requirements.txt file to get the dependencies :
 ```python
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## How to make the timetable
