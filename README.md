@@ -42,3 +42,9 @@ python timetable.py
    
 3. Once you're done with all the courses, click on Generate Timetable. This will generate the timetable and save it as "Timetable.xlsx" in the same directory. Open this up in any xlsx viewer and either save it as pdf/png/jpeg (or whatever) or take a screenshot, and voila, you have a readable timetable :wink:
    
+   
+# To be done:
+I don't have much time to cater to this project right now, so would be glad if someone followed up with some PRs on the following
+1. Add rooms to be displayed in the cell (I made this for the online sem so omitted that feature)
+2. Copy to a readable format in the text file, and add an import from earlier option
+3. Dark Mode
