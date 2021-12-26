@@ -1,10 +1,11 @@
 # IITB-Timetable-generator
 
 This is a program to generate colored excel timetables from the slots you can see on internal ASC, such as: 
-
+---
 ![](./gui/result.png)
-
-
+---
+![](./timetable-2022.png)
+---
 A GUI is provided to choose the courses. 
 
 ![ok](gui/gui.png)
